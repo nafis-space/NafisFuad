@@ -1,3 +1,3 @@
-# Mohammad Nafis Fuad's Portfolio
-This webpage describes my skills and experiences. As well as lists my contact info.
-click <a href="https://antilogof10.github.io/NafisFuad/">here</a>.
+# Fuad's Portfolio
+This website is designed to showcase my portfolio. You can find my contact details, experience, and previous work here.
+click <a href="https://nafis.bd">here</a>.
